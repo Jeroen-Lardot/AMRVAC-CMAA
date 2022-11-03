@@ -3,7 +3,7 @@
 /
 
 &filelist
-  base_filename='./output/WR_2D_'
+  base_filename='./output/lohner/WR_2D_'
   autoconvert      = T
   convert_type = 'vtuBCCmpi'
   saveprim         = F
@@ -49,10 +49,10 @@
 
  &meshlist
    refine_max_level   = 4
-   refine_criterion   = 0
+   refine_criterion   = 3
    !prolongprimitive   = .true.
    !coarsenprimitive   = .true. 
-   !w_refine_weight(3) = 1.d0
+   w_refine_weight(3) = 1.d0
    domain_nx1         = 128
    domain_nx2         = 16
    block_nx1          = 8
