@@ -1,0 +1,7 @@
+# Run with different refinement levels of lohner (4,6,8,10,15), with default weights
+# Run lohner with different weights (Wrho=1;Wrho=0.5,Wv1=0.5; Wlog(rho))
+# Base refinement with different refinement levels (4,6,8,10,15)
+# Change resolution to half-normal-doule both for lohner and base
+
+# KEEP TRACK OF THE TIME FOR EVERY RUN SO WE CAN DO TIME COMPLEXITY ANALYSIS AND PUT IT IN THIS DOCUMENT
+
