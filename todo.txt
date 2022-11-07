@@ -5,3 +5,6 @@
 
 # KEEP TRACK OF THE TIME FOR EVERY RUN SO WE CAN DO TIME COMPLEXITY ANALYSIS AND PUT IT IN THIS DOCUMENT
 
+base half resolution: 2568.822 sec
+
+lohner half resolution: 7304.953 sec
