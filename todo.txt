@@ -5,3 +5,7 @@
 
 # KEEP TRACK OF THE TIME FOR EVERY RUN SO WE CAN DO TIME COMPLEXITY ANALYSIS AND PUT IT IN THIS DOCUMENT
 
+NEW PROPOSITIONS AS OF DEC 1
+REMEMBER: change He_abundance to 0.98
+- complete run of base.par, fixed grid, to replicate results from paper (until 15 dyn times?)
+- complete run of lohner refinement (until 15 dyn times?)
